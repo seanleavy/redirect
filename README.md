@@ -1,0 +1,2 @@
+# redirect
+auth redirect page
